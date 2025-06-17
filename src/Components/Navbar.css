@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2feb25;
+    padding: 12px 20px;
+    
+
+
+}
+.navbar-logo {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.navbar-links{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding:20px ;
+
+}
